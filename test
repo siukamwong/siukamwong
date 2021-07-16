@@ -1,0 +1,10 @@
+webster = {
+&quot;Aardvark&quot; : &quot;A star of a popular children&#39;s cartoon show.&quot;,
+&quot;Baa&quot; : &quot;The sound a goat makes.&quot;,
+&quot;Carpet&quot;: &quot;Goes on the floor.&quot;,
+&quot;Dab&quot;: &quot;A small amount.&quot;
+}
+
+# Add your code below!
+for x in webster:
+print webster[x]
